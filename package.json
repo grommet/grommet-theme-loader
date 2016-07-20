@@ -1,0 +1,21 @@
+{
+  "name": "grommet-theme-loader",
+  "version": "0.1.0",
+  "description": "Load themed components instead of the default grommet scheme",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grommet/grommet-theme-loader.git"
+  },
+  "keywords": [
+    "grommet-theme-loader"
+  ],
+  "authors": [
+    "alansouzati"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grommet/grommet-theme-loader/issues"
+  },
+  "homepage": "https://github.com/grommet/grommet-theme-loader#readme"
+}
